@@ -40,6 +40,7 @@ function Home() {
             </Col>
           </Row>
         </Container>
+        <Button variant="primary" style={{ color: 'blue', fontSize: '16px' }}>Get }}>Get More Info: {AIzaSyB0E8FbKZqK_YkwoeN9JgtUFdvZ0jvSomA}</Button>
       </Container>
       <Home2 />
     </section>
